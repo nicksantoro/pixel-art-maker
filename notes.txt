@@ -1,0 +1,54 @@
+CSS
+
+Properties
+
+display: Controls how elements participate in "flow layout".
+
+Outer display type values: determine how the element with the display property aligns with its siblings 
+    (horizontally or vertically)
+
+Inner display type values: determine how the CHILDREN of the element with the display property align with each other
+    (horizontally or vertically)
+
+Example:
+
+Horizontally:
+[-][-]
+
+Vertically:
+[-------------------------------------------]
+[-------------------------------------------]
+
+Elements will align horizontally by getting their dimensions from their contents, 
+    potentially leaving room in their row for siblings. 
+Elements will align vertically by taking 100% of the room in their row (either with inner width or with margin),
+    forcing siblings to a different row.
+
+CSS:
+
+/* Outer display type values */
+
+/* Makes an element align horizontally with its siblings */
+display: inline;
+
+/* Makes an element align vertically with its siiblings */
+display: block;
+
+
+/* Takes the default dimensions from inline, but allows resizing like block */
+display: inline-block;
+
+
+/* Inner display type values */
+
+/* ?? */
+display: flex;
+
+
+
+
+
+
+// TODO FOR PIXEL ART MAKER
+
+? store colors in an object?
