@@ -27,7 +27,7 @@ for (let row = 0; row < 25; row++) {
     <div class="custom-row">
     `;
 
-    for (let column = 0; column < 60; column++) {
+    for (let column = 0; column < 65; column++) {
         gridHTML += `<div class="column border"></div>`;
     }
      
