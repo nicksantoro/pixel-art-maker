@@ -30,4 +30,4 @@ Research [LocalStorage](https://developer.mozilla.org/en-US/docs/Web/API/Storage
 ![blank canvas](screenshots/blank-canvas.png)
 ![select red](screenshots/select-red.png)
 ![select blue](screenshots/select-blue-draw.png)
-![drawing](screenshots/drawing-photo.png)
+![drawing](screenshots/drawing.png)
