@@ -13,7 +13,7 @@ More specifically, this pixel art maker allows a user to do the following:
 
 Here's a development workflow that we recommend you use.
 
-### Future Feature:
+### Future Features:
 
 Improve the mouse so it behaves like a real paintbrush. In other words, allow the user to paint by clicking and dragging across the canvas. 
 
