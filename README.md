@@ -27,7 +27,7 @@ Research [LocalStorage](https://developer.mozilla.org/en-US/docs/Web/API/Storage
 - [querySelector](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector)
 - [appendChild](https://developer.mozilla.org/en-US/docs/Web/API/Node/appendChild)
 
-![blank canvas](blank-canvas.png)
+![blank canvas](screenshots/blank-canvas.png)
 ![select red](screenshots/select-red.png)
 ![select blue](screenshots/select-blue-draw.png)
-![drawing](screenshots/random-photo.png)
+![drawing](screenshots/drawing-photo.png)
